@@ -8,5 +8,3 @@ def multiply_by_two(number_list):
 numbers = [1, 2, 3, 4, 5]
 result_for_loop = multiply_by_two(numbers)
 print(result_for_loop)
-
-
